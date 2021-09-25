@@ -5,7 +5,7 @@ import androidx.drawerlayout.widget.DrawerLayout
 import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupWithNavController
-import com.evgeny_m.messengerfirebase.MainActivity
+import com.evgeny_m.messengerfirebase.activities.MainActivity
 import com.evgeny_m.messengerfirebase.R
 
 

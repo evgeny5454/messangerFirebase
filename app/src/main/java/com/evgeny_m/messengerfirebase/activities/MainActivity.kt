@@ -1,4 +1,4 @@
-package com.evgeny_m.messengerfirebase
+package com.evgeny_m.messengerfirebase.activities
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
