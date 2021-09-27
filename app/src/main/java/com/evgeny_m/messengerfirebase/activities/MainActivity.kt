@@ -4,6 +4,7 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.evgeny_m.messengerfirebase.databinding.ActivityMainBinding
 import com.evgeny_m.messengerfirebase.utils.initNavDrawer
+import com.evgeny_m.messengerfirebase.utils.replaceActivity
 
 class MainActivity : AppCompatActivity() {
 
@@ -20,5 +21,7 @@ class MainActivity : AppCompatActivity() {
     override fun onStart() {
         super.onStart()
         initNavDrawer() // инициализация DrawerLayout
+
+        replaceActivity(RegisterActivity()) // для тестов регистрации
     }
 }
