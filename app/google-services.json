@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "642727140863",
+    "project_id": "messangerfirebase-74904",
+    "storage_bucket": "messangerfirebase-74904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642727140863:android:32196179ea17bb54b71bca",
+        "android_client_info": {
+          "package_name": "com.evgeny_m.messengerfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642727140863-j41tavmrcf8bimgihh92kdefedq9s4os.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evgeny_m.messengerfirebase",
+            "certificate_hash": "e798da3032d1698a8a507d07e6efbdbafe70ba05"
+          }
+        },
+        {
+          "client_id": "642727140863-qo5003rpcl1tjn493rm1816r85cihluu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAib2ZSnE24ppGoYVFB7g7SmjXY4PP5OaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642727140863-qo5003rpcl1tjn493rm1816r85cihluu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
